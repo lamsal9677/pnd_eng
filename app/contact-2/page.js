@@ -1,7 +1,14 @@
 'use client'
 import Layout from "@/components/layout/Layout"
+import CForm from "@/components/contactForm"
 import Link from "next/link"
 import { useState } from 'react'
+
+
+//import the form css
+import './ContactForm.css'
+
+
 export default function Home() {
 
     const [isActive, setIsActive] = useState({
@@ -43,51 +50,16 @@ export default function Home() {
                                             <div className="author-box">
                                             
                                                 <h4 className="footer-title">Have a Question?</h4>
-                                                <div className="phone-numer">+888 445 55 678 &amp; 89</div>
+                                                <div className="phone-numer">+1 419 321 1231</div>
+                                                <div className="phone-numer">abcd@xyz.com</div>
                                             </div>
-                                            <ul className="list">
-                                                <li>Monday - Friday:</li>
-                                                <li>9.00 - 6.00</li>
-                                                <li>Sunday &amp; Public Holidays (Closed)</li>
-                                            </ul>
                                         </div>
                                     </div>
                                 </div>
                                 <div className="col-lg-6 right-column">
                                     <div className="inner-container">
                                         <div className="contact-form-box">
-                                            <form method="post" action="sendemail.php" className="contact-form">
-                                                <div className="row">
-                                                    <div className="col-md-6 form-group">
-                                                        <input type="text" name="firstname" placeholder="First Name" required />
-                                                    </div>
-                                                    <div className="col-md-6 form-group">
-                                                        <input type="text" name="lastname" placeholder="Last Name" required />
-                                                    </div>
-                                                    <div className="col-md-6 form-group">
-                                                        <input type="email" name="email" placeholder="Email Address" required />
-                                                    </div>
-                                                    <div className="col-md-6 form-group">
-                                                        <input type="text" name="phone" placeholder="Phone" required />
-                                                    </div>
-                                                    <div className="col-md-12 form-group">
-                                                        <select className="custom-select" name="subject">
-                                                            <option value="*">Discusss about</option>
-                                                            <option value=".category-1">Business Aproach</option>
-                                                            <option value=".category-2">Trades &amp; Stock Market</option>
-                                                            <option value=".category-3">Strategy &amp; Planning</option>
-                                                            <option value=".category-4">Software &amp; Research</option>
-                                                            <option value=".category-5">Support &amp; Maintenance</option>
-                                                        </select>
-                                                    </div>
-                                                    <div className="col-md-12 form-group">
-                                                        <textarea name="message" placeholder="Message goes here" />
-                                                    </div>
-                                                    <div className="col-md-12 form-group">
-                                                        <button className="theme-btn btn-style-one" type="submit" name="submit-form"><span className="btn-title">Send Message</span></button>
-                                                    </div>
-                                                </div>
-                                            </form>
+                                                <CForm />
                                         </div>
                                     </div>
                                 </div>

@@ -1,6 +1,6 @@
 
 import ServiceTabs1 from "@/components/elements/ServiceTabs1"
-import ServiceTab from "/home/udaya/Desktop/personal-projects/client-workds/pnd_eng/app/alteration-addition-structures/ServicesTab.js"
+import ServiceTab from "./ServicesTab.js"
 import Layout from "@/components/layout/Layout"
 import AuditSlider1 from "@/components/slider/AuditSlider1"
 import ServiceSlider1 from "@/components/slider/ServiceSlider1"
