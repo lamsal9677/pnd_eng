@@ -6,7 +6,6 @@ export default function Chooseus() {
             <section className="chooseus-home-6">
                 <div className="sec-title-three text-center">
                         <h2>Why Choose Us?</h2>
-                        <p>Denounce with righteous indignation &amp; dislike men who are so beguiled demoralized <br />by hold the charms off pleasure.</p>
                     </div>
                 <div className="auto-container">
                     <div className="row clearfix flex-nowrap">

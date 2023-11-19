@@ -8,7 +8,6 @@ export default function Feature() {
                 <div className="auto-container">
                     <div className="sec-title-three">
                         <h2>Architecture Is Our Existence</h2>
-                        <p>Denounce with righteous indignation &amp; dislike men who are so beguiled demoralized <br />by hold the charms off pleasure.</p>
                     </div>
                     <div className="row clearfix">
                         <div className="col-lg-4 col-md-6 col-sm-12 single-column">

@@ -7,7 +7,6 @@ export default function Process() {
                 <div className="auto-container">
                     <div className="sec-title-three">
                         <h2>Our Working Process</h2>
-                        <p>Denounce with righteous indignation &amp; dislike men who are so beguiled demoralized <br />by hold the charms off pleasure.</p>
                     </div>
                     <div className="process-wrapper">
                         <div className="row">
