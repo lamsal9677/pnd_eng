@@ -17202,6 +17202,10 @@ body .btn-style-one:hover {
     transition: all 500ms ease;
 }
 
+.widget_categories_two .categories-list .active a:before {
+    color: #7dafc3;
+}
+
 .widget_categories_two .categories-list li a:hover:before {
     opacity: 0;
 }
@@ -43694,4 +43698,8 @@ figure {
 
 .footer-title{
     color:white !important;
+}
+
+.tabs-container{
+    padding-top:40px;
 }
