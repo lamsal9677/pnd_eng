@@ -55,7 +55,7 @@ export default function PortfolioFilter5() {
                                 <div className="category">Accessory Dwelling Units (ADU)</div>
                               
                             </div>
-                            <div className="link-btn"><Link href="#" className="theme-btn"><span className="flaticon-right-arrow" /></Link></div>
+                            <div className="link-btn"><Link href="/adu" className="theme-btn"><span className="flaticon-right-arrow" /></Link></div>
                         </div>
                     </div>
                 </div>
@@ -67,7 +67,7 @@ export default function PortfolioFilter5() {
                                 <div className="category">Single Family Residental Structures</div>
                               
                             </div>
-                            <div className="link-btn"><Link href="#" className="theme-btn"><span className="flaticon-right-arrow" /></Link></div>
+                            <div className="link-btn"><Link href="/single-family" className="theme-btn"><span className="flaticon-right-arrow" /></Link></div>
                         </div>
                     </div>
                 </div>
@@ -79,7 +79,7 @@ export default function PortfolioFilter5() {
                                 <div className="category">Retaining Wall Designs</div>
                               
                             </div>
-                            <div className="link-btn"><Link href="#" className="theme-btn"><span className="flaticon-right-arrow" /></Link></div>
+                            <div className="link-btn"><Link href="/retaining-wall" className="theme-btn"><span className="flaticon-right-arrow" /></Link></div>
                         </div>
                     </div>
                 </div>
@@ -91,7 +91,7 @@ export default function PortfolioFilter5() {
                                 <div className="category">Deck Designs</div>
                               
                             </div>
-                            <div className="link-btn"><Link href="#" className="theme-btn"><span className="flaticon-right-arrow" /></Link></div>
+                            <div className="link-btn"><Link href="/deck-designs" className="theme-btn"><span className="flaticon-right-arrow" /></Link></div>
                         </div>
                     </div>
                 </div>
@@ -103,7 +103,7 @@ export default function PortfolioFilter5() {
                                 <div className="category">Alteration and addition to<br/> existing structures</div>
                               
                             </div>
-                            <div className="link-btn"><Link href="#" className="theme-btn"><span className="flaticon-right-arrow" /></Link></div>
+                            <div className="link-btn"><Link href="/alteration-addition-structures" className="theme-btn"><span className="flaticon-right-arrow" /></Link></div>
                         </div>
                     </div>
                 </div>
@@ -123,7 +123,7 @@ export default function PortfolioFilter5() {
                                 <div className="category">Commercial Designs</div>
                               
                             </div>
-                            <div className="link-btn"><Link href="#" className="theme-btn"><span className="flaticon-right-arrow" /></Link></div>
+                            <div className="link-btn"><Link href="/commercial-designs" className="theme-btn"><span className="flaticon-right-arrow" /></Link></div>
                         </div>
                     </div>
                 </div>
@@ -135,6 +135,7 @@ export default function PortfolioFilter5() {
                                 <div className="category">Structural Evaluations and Reports</div>
                             
                             </div>
+                            <div className="link-btn"><Link href="/structural-evaluations" className="theme-btn"><span className="flaticon-right-arrow" /></Link></div>
                         </div>
                     </div>
                 </div>

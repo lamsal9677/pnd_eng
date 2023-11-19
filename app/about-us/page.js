@@ -40,6 +40,14 @@ export default function Home() {
                                             excellence and practical experience. Both co-founders hold master's degrees in
                                             structural engineering and boast a combined experience of over 12 years in the
                                             industry.</p>
+                                            <br/>
+                                            <p>Nasib Pandey, PE, holds a Master's degree in Civil Engineering from Lamar University,
+                                            graduating in 2016. Since then, he has been actively involved in the field of structural
+                                            engineering. With a shared vision and expertise in structural engineering, Nasib, with his
+                                            team, established P&D Engineering Solutions LLC, a company dedicated to delivering
+                                            top-quality and cost-effective designs for home improvement projects. With a
+                                            commitment to excellence, Nasib and his team strive to provide clients with optimal
+                                            solutions for their structural engineering needs.</p>
                                         </div>
 
                                         <h3 className="custom-title">Our Mission</h3>

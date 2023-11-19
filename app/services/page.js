@@ -40,7 +40,7 @@ export default function Home() {
                                                 <div className="icon"><span className="flaticon-chart" /></div>
                                                 <h4>Single Family Residental Structures</h4>
                                             </div>
-                                            <div className="overlay"><Link href="/audit-assurance"><span className="flaticon-right" /></Link></div>
+                                            <div className="overlay"><Link href="/single-family"><span className="flaticon-right" /></Link></div>
                                         </div>
                                         <div className="content">
                                             <div className="text">Obligations of business will frequently <br />occurs pleasures accepted.</div>
@@ -56,7 +56,7 @@ export default function Home() {
                                                 <div className="icon"><span className="flaticon-agreement" /></div>
                                                 <h4>Alteration and addition to existing structures</h4>
                                             </div>
-                                            <div className="overlay"><Link href="/strategy-planning"><span className="flaticon-right" /></Link></div>
+                                            <div className="overlay"><Link href="/alteration-addition-structures"><span className="flaticon-right" /></Link></div>
                                         </div>
                                         <div className="content">
                                             <div className="text">Obligations of business will frequently <br />occurs pleasures accepted.</div>
@@ -71,7 +71,7 @@ export default function Home() {
                                                 <div className="icon"><span className="flaticon-thought" /></div>
                                                 <h4>Deck Designs</h4>
                                             </div>
-                                            <div className="overlay"><Link href="/software-research"><span className="flaticon-right" /></Link></div>
+                                            <div className="overlay"><Link href="/deck-designs"><span className="flaticon-right" /></Link></div>
                                         </div>
                                         <div className="content">
                                             <div className="text">Master-builder of human happiness no <br /> one avoids reject  pleasure itself.</div>
@@ -86,7 +86,7 @@ export default function Home() {
                                                 <div className="icon"><span className="flaticon-gear-1" /></div>
                                                 <h4>Retaining Wall Designs</h4>
                                             </div>
-                                            <div className="overlay"><Link href="/support-maintenance"><span className="flaticon-right" /></Link></div>
+                                            <div className="overlay"><Link href="/retaining-wall"><span className="flaticon-right" /></Link></div>
                                         </div>
                                         <div className="content">
                                             <div className="text">Business will frequent occurs that have <br /> repudiated accepted cases.</div>
@@ -101,7 +101,7 @@ export default function Home() {
                                                 <div className="icon"><span className="flaticon-gear-1" /></div>
                                                 <h4>Structural Evaluations and Reports</h4>
                                             </div>
-                                            <div className="overlay"><Link href="/support-maintenance"><span className="flaticon-right" /></Link></div>
+                                            <div className="overlay"><Link href="/structural-evaluations"><span className="flaticon-right" /></Link></div>
                                         </div>
                                         <div className="content">
                                             <div className="text">Business will frequent occurs that have <br /> repudiated accepted cases.</div>
@@ -116,7 +116,7 @@ export default function Home() {
                                                 <div className="icon"><span className="flaticon-gear-1" /></div>
                                                 <h4>Commercial Designs</h4>
                                             </div>
-                                            <div className="overlay"><Link href="/support-maintenance"><span className="flaticon-right" /></Link></div>
+                                            <div className="overlay"><Link href="/commercial-designs"><span className="flaticon-right" /></Link></div>
                                         </div>
                                         <div className="content">
                                             <div className="text">Business will frequent occurs that have <br /> repudiated accepted cases.</div>
