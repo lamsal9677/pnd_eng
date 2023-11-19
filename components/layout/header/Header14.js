@@ -12,7 +12,7 @@ export default function Header14({ scroll, isMobileMenu, handleMobileMenu, isSid
                     <div className="auto-container">
                         <div className="outer-box">
                             <div className="logo-box">
-                                <figure className="logo"><a href="/index-13"><img src="/assets/images-4/logo-2.png" alt="" /></a></figure>
+                                <figure className="logo"><a href="/"><img src="/assets/images-4/logo-2.png" alt="" /></a></figure>
                             </div>
                             {/*Nav Box*/}
                             <div className="nav-outer clearfix">
@@ -28,9 +28,8 @@ export default function Header14({ scroll, isMobileMenu, handleMobileMenu, isSid
                             </div>
                             <div className="nav-right clearfix">
                                 <ul className="social-links clearfix">
-                                    <li><a href="/index-14"><i className="fab fa-facebook-f" /></a></li>
-                                    <li><a href="/index-14"><i className="fab fa-twitter" /></a></li>
-                                    <li><a href="/index-14"><i className="fab fa-youtube" /></a></li>
+                                    <li><a href="/"><i className="fab fa-facebook-f" /></a></li>
+                                    <li><a href="/"><i className="fab fa-instagram" /></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -56,9 +55,8 @@ export default function Header14({ scroll, isMobileMenu, handleMobileMenu, isSid
                             </div>
                             <div className="nav-right clearfix">
                                 <ul className="social-links clearfix">
-                                    <li><a href="/index-14"><i className="fab fa-facebook-f" /></a></li>
-                                    <li><a href="/index-14"><i className="fab fa-twitter" /></a></li>
-                                    <li><a href="/index-14"><i className="fab fa-youtube" /></a></li>
+                                    <li><a href="/"><i className="fab fa-facebook-f" /></a></li>
+                                    <li><a href="/"><i className="fab fa-instagram" /></a></li>
                                 </ul>
                             </div>
                         </div>

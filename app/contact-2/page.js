@@ -24,70 +24,25 @@ export default function Home() {
 
     return (
         <>
-            <Layout headerStyle={1} footerStyle={1} breadcrumbTitle="Get in touch" wrapperCls="home_1">
+            <Layout headerStyle={14} wrapperCls="home_14">
                 <div>
-                    <section className="contact-details-section-two">
-                        <div className="auto-container">
-                            <div className="sec-title text-center">
-                                <h2>We’d love to help you</h2>
-                                <div className="text">Please feel free to get in touch using the form below. We'd love to hear your <br /> thoughts &amp; answer any questions you may have!</div>
-                                <div className="text-decoration">
-                                    <span className="left" />
-                                    <span className="right" />
-                                </div>
-                            </div>
-                            <div className="row">
-                                <div className="col-lg-4 contact-info-block-two">
-                                    <div className="inner-box">
-                                        <div className="icon"><img src="/assets/images/icons/icon-50.png" alt="" /></div>
-                                        <h4>Houston</h4>
-                                        <ul>
-                                            <li>3333 Raleigh St, Houston, <br /> TX 77021, USA.</li>
-                                        </ul>
-                                    </div>
-                                </div>
-                                <div className="col-lg-4 contact-info-block-two">
-                                    <div className="inner-box">
-                                        <div className="icon"><img src="/assets/images/icons/icon-51.png" alt="" /></div>
-                                        <h4>Call us on</h4>
-                                        <ul>
-                                            <li><Link href="tel:+18005554400">+1 800 555 44 00 (Toll free)</Link></li>
-                                            <li><Link href="tel:+321556667890">+321 55 666 7890</Link></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                                <div className="col-lg-4 contact-info-block-two">
-                                    <div className="inner-box">
-                                        <div className="icon"><img src="/assets/images/icons/icon-52.png" alt="" /></div>
-                                        <h4>Mail at</h4>
-                                        <ul>
-                                            <li><Link href="mailto:supportteam@Envolve.com">supportteam@Envolve.com</Link></li>
-                                            <li><Link href="mailto:career@Envolve.com">career@Envolve.com</Link></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <div className="bottom-text">Chat with a live expert to answer your questions,  <Link href="#">Live Chat <i className="flaticon-right" /></Link></div>
-                        </div>
-                    </section>
+
                     {/* Contact Section Style Five */}
                     <section className="contact-section style-five">
-                        <div className="auto-container">
+                        <div className="auto-container" style={{ backgroundImage: 'url(assets/myImages/stacked-waves-haikei.svg)',backgroundSize:'cover' }}>
                             <div className="row m-0">
-                                <div className="col-lg-6 left-column" style={{ backgroundImage: 'url(assets/images/background/bg-22.jpg)' }}>
+                                <div className="col-lg-6 left-column" >
                                     <div className="inner-container">
                                         <div className="wrapper-box">
-                                            <div className="sec-title light">
-                                                <h2>New case? <br /> Send message us</h2>
-                                                <div className="text-decoration">
-                                                    <span className="left" />
-                                                    <span className="right" />
-                                                </div>
-                                                <div className="text">Just send us your questions or concerns to <br /> starting a new project.</div>
+                                            <div className="sec-title-three light">
+                                                <h2>New case? </h2>
+                                <h2>We’d love to help you</h2>
+
+                                                <div className="text" style={{color:"white"}}>Please feel free to get in touch using the form below. We'd love to hear your <br /> thoughts &amp; answer any questions you may have!</div>
                                             </div>
                                             <div className="author-box">
-                                                <div className="image"><img src="/assets/images/resource/author-thumb-12.jpg" alt="" /></div>
-                                                <h4>Have a Question?</h4>
+                                                <div className="image"><img src="/assets/images/icons/icon-51.png" alt="" /></div>
+                                                <h4 className="custom-title">Have a Question?</h4>
                                                 <div className="phone-numer">+888 445 55 678 &amp; 89</div>
                                             </div>
                                             <ul className="list">
@@ -95,11 +50,10 @@ export default function Home() {
                                                 <li>9.00 - 6.00</li>
                                                 <li>Sunday &amp; Public Holidays (Closed)</li>
                                             </ul>
-                                            <Link href="#" className="read-more-link">Request a Call Back <i className="flaticon-right" /></Link>
                                         </div>
                                     </div>
                                 </div>
-                                <div className="col-lg-6 right-column" style={{ backgroundImage: 'url(assets/images/background/bg-23.jpg)' }}>
+                                <div className="col-lg-6 right-column">
                                     <div className="inner-container">
                                         <div className="contact-form-box">
                                             <form method="post" action="sendemail.php" className="contact-form">
@@ -189,31 +143,7 @@ export default function Home() {
                             </div>
                         </div>
                     </section>
-                    {/* Feature Section Two */}
-                    <section className="feature-section-two">
-                        <div className="auto-container">
-                            <div className="row">
-                                <div className="col-lg-6 feature-block-two style-two">
-                                    <div className="shape-box">
-                                        <div className="inner-box">
-                                            <div className="icon"><img src="/assets/images/icons/icon-9.png" alt="" /></div>
-                                            <h4>Become a Partner of Envolve</h4>
-                                            <div className="text">To take a trivial example, which of us undertakes <br />laborious physical exercise.</div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div className="col-lg-6 feature-block-two style-two">
-                                    <div className="shape-box">
-                                        <div className="inner-box">
-                                            <div className="icon"><img src="/assets/images/icons/icon-10.png" alt="" /></div>
-                                            <h4>Career Opportunities in Envolve</h4>
-                                            <div className="text">Who chooses to enjoy a pleasure that has no one <br />annoying consequences.</div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </section>
+                    
                 </div>
 
             </Layout>

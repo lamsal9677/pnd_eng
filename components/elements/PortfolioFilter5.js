@@ -46,25 +46,14 @@ export default function PortfolioFilter5() {
         <>
 
             <div className="row isotope-block">
-                <div className="project-block-three col-lg-3 col-md-6">
-                    <div className="inner-box">
-                        <div className="image"><img src="/assets/images/gallery/gallery-3-1.jpg" alt="" /></div>
-                        <div className="overlay-content">
-                            <div className="content">
-                                <div className="category">Technical</div>
-                                <div className="text">Market Expansion</div>
-                            </div>
-                            <div className="link-btn"><Link href="#" className="theme-btn"><span className="flaticon-right-arrow" /></Link></div>
-                        </div>
-                    </div>
-                </div>
+                
                 <div className="project-block-three col-lg-3 col-md-6">
                     <div className="inner-box">
                         <div className="image"><img src="/assets/images/gallery/gallery-3-2.jpg" alt="" /></div>
                         <div className="overlay-content">
                             <div className="content">
-                                <div className="category">Technical</div>
-                                <div className="text">Market Expansion</div>
+                                <div className="category">Accessory Dwelling Units (ADU)</div>
+                              
                             </div>
                             <div className="link-btn"><Link href="#" className="theme-btn"><span className="flaticon-right-arrow" /></Link></div>
                         </div>
@@ -75,8 +64,8 @@ export default function PortfolioFilter5() {
                         <div className="image"><img src="/assets/images/gallery/gallery-3-3.jpg" alt="" /></div>
                         <div className="overlay-content">
                             <div className="content">
-                                <div className="category">Technical</div>
-                                <div className="text">Market Expansion</div>
+                                <div className="category">Single Family Residental Structures</div>
+                              
                             </div>
                             <div className="link-btn"><Link href="#" className="theme-btn"><span className="flaticon-right-arrow" /></Link></div>
                         </div>
@@ -87,8 +76,8 @@ export default function PortfolioFilter5() {
                         <div className="image"><img src="/assets/images/gallery/gallery-3-4.jpg" alt="" /></div>
                         <div className="overlay-content">
                             <div className="content">
-                                <div className="category">Technical</div>
-                                <div className="text">Market Expansion</div>
+                                <div className="category">Retaining Wall Designs</div>
+                              
                             </div>
                             <div className="link-btn"><Link href="#" className="theme-btn"><span className="flaticon-right-arrow" /></Link></div>
                         </div>
@@ -99,8 +88,20 @@ export default function PortfolioFilter5() {
                         <div className="image"><img src="/assets/images/gallery/gallery-3-5.jpg" alt="" /></div>
                         <div className="overlay-content">
                             <div className="content">
-                                <div className="category">Technical</div>
-                                <div className="text">Market Expansion</div>
+                                <div className="category">Deck Designs</div>
+                              
+                            </div>
+                            <div className="link-btn"><Link href="#" className="theme-btn"><span className="flaticon-right-arrow" /></Link></div>
+                        </div>
+                    </div>
+                </div>
+                <div className="project-block-three col-lg-3 col-md-6">
+                    <div className="inner-box">
+                        <div className="image"><img src="/assets/images/gallery/gallery-3-3.jpg" alt="" /></div>
+                        <div className="overlay-content">
+                            <div className="content">
+                                <div className="category">Alteration and addition to<br/> existing structures</div>
+                              
                             </div>
                             <div className="link-btn"><Link href="#" className="theme-btn"><span className="flaticon-right-arrow" /></Link></div>
                         </div>
@@ -108,11 +109,36 @@ export default function PortfolioFilter5() {
                 </div>
                 <div className="project-block-seven project-block-three col-lg-3 col-md-6">
                     <div className="inner-box">
-                        <h2>1.6k </h2>
-                        <h4>projects Completed</h4>
-                        <Link href="#" className="read-more-link">View All Projects <i className="fa fa-caret-right" /></Link>
+                        <h2>7 </h2>
+                        <h4>Total services we offer </h4>
+                        <Link href="/services" className="read-more-link">View All Projects <i className="fa fa-caret-right" /></Link>
                     </div>
                 </div>
+                
+                <div className="project-block-three col-lg-3 col-md-6">
+                    <div className="inner-box">
+                        <div className="image"><img src="/assets/images/gallery/gallery-3-5.jpg" alt="" /></div>
+                        <div className="overlay-content">
+                            <div className="content">
+                                <div className="category">Commercial Designs</div>
+                              
+                            </div>
+                            <div className="link-btn"><Link href="#" className="theme-btn"><span className="flaticon-right-arrow" /></Link></div>
+                        </div>
+                    </div>
+                </div>
+                <div className="project-block-three col-lg-3 col-md-6">
+                    <div className="inner-box">
+                        <div className="image"><img src="/assets/images/gallery/gallery-3-4.jpg" alt="" /></div>
+                        <div className="overlay-content">
+                            <div className="content">
+                                <div className="category">Structural Evaluations and Reports</div>
+                            
+                            </div>
+                        </div>
+                    </div>
+                </div>
+               
             </div>
 
         </>

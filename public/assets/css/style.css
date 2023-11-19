@@ -20,7 +20,6 @@
 @import url('hover.css');
 @import url('jquery.touchspin.css');
 @import url('botstrap-select.min.css');
-@import url('shop.css');
 @import url('swiper.min.css');
 @import url('rtl.css');
 
@@ -70,7 +69,7 @@ html {
 
 body {
     font-size: 16px;
-    color: #0c2957;
+    color: #727b7f;
     line-height: 1.7em;
     font-weight: 400;
     -webkit-font-smoothing: antialiased;
@@ -79,6 +78,7 @@ body {
 }
 
 a {
+    /* color: #7dafc3 !important; */
     text-decoration: none;
     cursor: pointer;
 }
@@ -119,6 +119,7 @@ p,
     line-height: 1.6em;
     font-weight: 400;
     margin: 0px 0px 15px;
+    /* text-align: justify; */
 }
 
 ::-webkit-input-placeholder {
@@ -3496,7 +3497,7 @@ body .btn-style-one:hover {
     position: relative;
     height: 3px;
     width: 70px;
-    background: url(../images/icons/sec-title-dec-3.png);
+    background:#7dafc3 ;
     display: block;
 }
 
@@ -6375,7 +6376,7 @@ body .btn-style-one:hover {
     text-align: center;
     z-index: 100;
     cursor: pointer;
-    background: #25283a;
+    background: #7dafc3;
     border-radius: 50%;
     margin-left: -26px;
     display: none;
@@ -8757,9 +8758,9 @@ body .btn-style-one:hover {
 .about-section-three .pattern {
     position: absolute;
     left: 0;
-    bottom: 130px;
+    bottom: 5px;
     right: 0;
-    top: 0;
+    top: -90px;
     background-size: cover;
 }
 
@@ -8922,6 +8923,19 @@ body .btn-style-one:hover {
 .about-section-three .team-area {
     padding-bottom: 70px;
 }
+
+.about-section-three .team-area h4 {
+    color:#7dafc3;
+}
+
+.about-section-three .team-area .designation {
+    color:#7dafc3;
+}
+
+.team-block-two .content:before{
+    border-right: 3px solid #7dafc3;
+}
+
 
 .about-section-three .fact-counter-three {
     position: relative;
@@ -12409,9 +12423,9 @@ body .btn-style-one:hover {
     right: 0px;
     bottom: 0px;
     top: 0px;
-    background-image: -moz-linear-gradient(90deg, rgb(15, 49, 134) 0%, rgba(15, 49, 134, 0) 100%);
-    background-image: -ms-linear-gradient(90deg, rgb(15, 49, 134) 0%, rgba(15, 49, 134, 0) 100%);
-    background-image: -webkit-linear-gradient(90deg, rgb(15, 49, 134) 0%, rgba(15, 49, 134, 0) 100%);
+    background-image: -moz-linear-gradient(90deg, #7dafc3 0%, #7dafc3 100%);
+    background-image: -ms-linear-gradient(90deg, #7dafc3 0%, rgba(15, 49, 134, 0) 100%);
+    background-image: -webkit-linear-gradient(90deg, #7dafc3 0%, rgba(15, 49, 134, 0) 100%);
 }
 
 .project-block-three .inner-box:hover .overlay-content {
@@ -13239,6 +13253,7 @@ body .btn-style-one:hover {
     position: relative;
     padding: 30px;
     border-radius: 6px;
+    background:#7dafc3;
 }
 
 .project-block-seven h2 {
@@ -14504,7 +14519,7 @@ body .btn-style-one:hover {
     opacity: .74;
     background-image: -moz-linear-gradient(47deg, rgb(32, 22, 48) 37%, rgb(122, 41, 32) 86%);
     background-image: -ms-linear-gradient(47deg, rgb(32, 22, 48) 37%, rgb(122, 41, 32) 86%);
-    background-image: -webkit-linear-gradient(47deg, rgb(32, 22, 48) 37%, rgb(122, 41, 32) 86%);
+    background-image: -webkit-linear-gradient(90deg, #7dafc3 0%, rgba(15, 49, 134, 0) 100%);
 }
 
 .service-block-six .icon-box {
@@ -18172,7 +18187,7 @@ body .btn-style-one:hover {
 
 .services-details .tab-btn-style-one li a.active,
 .services-details .tab-btn-style-one li a:hover {
-    color: #fff;
+    color: #7dafc3;
 }
 
 .services-details .tab-btn-style-one li a:before {
@@ -20306,39 +20321,27 @@ p {
     padding: 100px 0px 100px 0px;
 }
 
-.chooseus-home-6:before {
-    position: absolute;
+/* .chooseus-home-6:before { */
+    /* position: absolute;
     content: '';
     background: #ebe8e4;
-    width: 50%;
+    width: 43%;
     height: 100%;
     top: 0px;
     right: 0px;
     opacity: 0.94;
     z-index: 1;
-}
+} */
 
 .chooseus-home-6 .bg-layer .bg-1 {
     position: absolute;
     left: 0px;
     top: 0px;
-    width: 50%;
+    width: 100%;
     height: 100%;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-}
-
-.chooseus-home-6 .bg-layer .bg-2 {
-    position: absolute;
-    right: 0px;
-    top: 0px;
-    width: 50%;
-    height: 100%;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-attachment: fixed;
 }
 
 .chooseus-home-6 .left-column {
@@ -20479,7 +20482,7 @@ p {
 }
 
 .chooseus-home-6 .right-column .single-item:hover .icon-box {
-    background: #232b3e;
+    background: #7dafc3;
 }
 
 .chooseus-home-6 .right-column .single-item h3 {
@@ -20497,7 +20500,7 @@ p {
     content: '';
     height: 3px;
     width: 70px;
-    background: url(../images-2/icons/sec-title-dec-4.png);
+    background:#7dafc3;
     left: 0px;
     bottom: 0px;
     background-repeat: no-repeat;
@@ -37529,7 +37532,7 @@ figure {
 
 /** squares animation **/
 
-squares {
+.squares {
     0% {
         -webkit-transform: scale(1);
         transform: scale(1);
@@ -39317,7 +39320,18 @@ squares {
     font-weight: 500;
     color: #133441;
     padding-bottom: 29px;
-    margin-bottom: 42px;
+}
+.banner-section-home14 .content-inner a {
+    margin-bottom: 72px;
+    display:flex;
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.read-more-link i.flaticon-right {
+    margin-left: 10px;
 }
 
 .banner-section-home14 .content-inner h2:before {
@@ -39328,6 +39342,7 @@ squares {
     height: 3px;
     left: 0px;
     bottom: 0px;
+    display: none;
 }
 
 .banner-section-home14 .content-inner p {
@@ -39758,6 +39773,7 @@ squares {
 
 .process-section-two.home-14 {
     padding: 114px 0px 84px 0px;
+    padding-bottom:0;
 }
 
 
@@ -43656,4 +43672,16 @@ squares {
 
 .pricing-btn .nav-tabs .nav-link {
     border: 0px solid transparent;
+}
+
+.sidebar-page-container-projects{
+    padding:0px 0px 70px 0;
+}
+
+.custom-title{
+    color:#133441 !important;
+}
+
+.common-container{
+    padding:50px 0 70px 0 !important;
 }

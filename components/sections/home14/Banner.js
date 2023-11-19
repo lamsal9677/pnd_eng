@@ -42,28 +42,19 @@ export default function Banner() {
                         />
                         <div className="auto-container">
                             <div className="row clearfix">
-                                <div className="col-lg-8 col-md-12">
+                                <div className="col-lg-6 col-md-12">
                                     <div className="content-inner">
                                         <h6>
                                             Welcome to P&D Engineering Solutions
                                             LLC
                                         </h6>
                                         <h2>
-                                         Where innovation meets expertise in the realm of structural engineering
+                                            where innovation meets expertise.
                                         </h2>
-                                        <p>
-                                            {" "}
-                                            Founded by two passionate and highly
-                                            skilled professional engineers, we
-                                            bring a wealth of knowledge and
-                                            experience to the industry.
-                                            Currently licensed in California,
-                                            Texas, Colorado, Florida, and New
-                                            Jersey, we are committed to
-                                            providing top-notch engineering
-                                            solutions to our clients.
-                                        </p>
-                                       
+                                        <Link href="/about-us" className="read-more-link" style={{color:'#7dafc3'}}>
+                                            More About Company
+                                            <i className="flaticon-right" />
+                                        </Link>
                                     </div>
                                 </div>
                             </div>

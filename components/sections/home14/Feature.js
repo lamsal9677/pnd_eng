@@ -15,7 +15,7 @@ export default function Feature() {
                             <div className="feature-block wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
                                 <div className="inner-box">
                                     <div className="icon-box"><i className="customicon-architect" /></div>
-                                    <h3><Link href="/index-14">20 Years Experience</Link></h3>
+                                    <h3><Link href="/index-14"> Experience</Link></h3>
                                     <p>Our power of choice is untrameled when nothing prevents our being able to do what we like best</p>
                                 </div>
                             </div>

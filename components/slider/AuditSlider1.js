@@ -32,25 +32,19 @@ export default function AuditSlider1() {
                 <SwiperSlide className="slide">
                     <div className="image-slide">
                         <img src="/assets/images/resource/single-service-5.jpg" alt="" />
-                        <div className="content">
-                            <h4>We approach your audit with a deep understanding <br /> of your business.</h4>
-                        </div>
+                        
                     </div>
                 </SwiperSlide>
                 <SwiperSlide className="slide">
                     <div className="image-slide">
                         <img src="/assets/images/resource/single-service-2.jpg" alt="" />
-                        <div className="content">
-                            <h4>We approach your audit with a deep understanding <br /> of your business.</h4>
-                        </div>
+                        
                     </div>
                 </SwiperSlide>
                 <SwiperSlide className="slide">
                     <div className="image-slide">
                         <img src="/assets/images/resource/single-service-3.jpg" alt="" />
-                        <div className="content">
-                            <h4>We approach your audit with a deep understanding <br /> of your business.</h4>
-                        </div>
+                        
                     </div>
                 </SwiperSlide>
             </Swiper>

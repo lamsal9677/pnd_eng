@@ -1,37 +1,21 @@
 import Layout from "@/components/layout/Layout"
-import About from "@/components/sections/home1/About"
-import Banner from "@/components/sections/home1/Banner"
-import Cases from "@/components/sections/home1/Cases"
-import Clients from "@/components/sections/home1/Clients"
-import Cta from "@/components/sections/home1/Cta"
-import Feature from "@/components/sections/home1/Feature"
-import Features from "@/components/sections/home1/Features"
-import Funfacts from "@/components/sections/home1/Funfacts"
-import Map from "@/components/sections/home1/Map"
-import News from "@/components/sections/home1/News"
-import Pricing from "@/components/sections/home1/Pricing"
-import Process from "@/components/sections/home1/Process"
-import Testimonial from "@/components/sections/home1/Testimonial"
-import WhyChooseUs from "@/components/sections/home1/WhyChooseUs"
+import Banner from "@/components/sections/home14/Banner"
+import Chooseus from "@/components/sections/home14/Chooseus"
+import Feature from "@/components/sections/home14/Feature"
+import Process from "@/components/sections/home14/Process"
+import Projects from "@/components/sections/home14/Projects"
+import About from "@/components/sections/home14/About"
 export default function Home() {
 
     return (
         <>
-            <Layout headerStyle={1} footerStyle={1} wrapperCls="home_1">
+            <Layout headerStyle={14} footerStyle={14} wrapperCls="home_14">
                 <Banner />
-                <Clients />
-                <Features />
-                <About />
-                <Funfacts />
-                <WhyChooseUs />
-                <Cases />
-                <Process />
-                <Testimonial />
-                <Pricing />
-                <News />
-                <Map />
-                <Cta />
                 <Feature />
+                <About/>
+                <Process />
+                <Chooseus />
+                <Projects />
             </Layout>
         </>
     )
