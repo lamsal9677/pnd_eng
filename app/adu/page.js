@@ -24,7 +24,7 @@ export default function Home() {
                                         <div className="widget widget_categories_two">
                                             <div className="widget-content">
                                                 <ul className="categories-list clearfix">
-                                                    <li><Link style={{color:"#7dafc3"}} href="/adu">Accessory Dwelling Units (ADU) <span /></Link></li>
+                                                    <li><Link style={{color:"#161b46"}} href="/adu">Accessory Dwelling Units (ADU) <span /></Link></li>
                                                     <li><Link href="/single-family">Single Family Residental <br/> Structures<span /></Link></li>
                                                     <li><Link href="/alteration-addition-structures">Alteration and addition <br/> to existing structures<span /></Link></li>
                                                     <li><Link href="/deck-designs">Deck Designs <span /></Link></li>

@@ -4,29 +4,20 @@ export default function Chooseus() {
     return (
         <>
             <section className="chooseus-home-6">
-                <div className="bg-layer">
-                    <div
-                        className="bg-1"
-                        style={{
-                            backgroundImage:
-                                "url(assets/myImages/stacked-steps-haikei.svg)",
-                        }}
-                    />
-                </div>
                 <div className="sec-title-three text-center">
                         <h2>Why Choose Us?</h2>
                         <p>Denounce with righteous indignation &amp; dislike men who are so beguiled demoralized <br />by hold the charms off pleasure.</p>
                     </div>
                 <div className="auto-container">
-                    <div className="row align-items-center clearfix flex-nowrap">
-                        <div className="col-lg-7 col-md-12">
+                    <div className="row clearfix flex-nowrap">
+                        <div className="col-lg-6 col-md-12">
                             <div className="right-column">
                                 <div className="single-item">
                                     <div className="icon-box">
                                         <i className="flaticon-up" />
                                     </div>
                                     <h3>Expertise</h3>
-                                    <p>
+                                    <p className="text-align">
                                         Our co-founders are licensed
                                         professional engineers with specialized
                                         knowledge in structural engineering.
@@ -40,7 +31,7 @@ export default function Chooseus() {
                                         <i className="flaticon-chart" />
                                     </div>
                                     <h3>Innovation</h3>
-                                    <p>
+                                    <p className="text-align">
                                         We are committed to staying ahead of the
                                         curve by embracing the latest
                                         advancements in structural engineering
@@ -54,7 +45,7 @@ export default function Chooseus() {
                                         <i className="flaticon-business-and-finance" />
                                     </div>
                                     <h3>Client-Centric Approach</h3>
-                                    <p>
+                                    <p className="text-align">
                                         Your satisfaction is our priority. We
                                         believe in open communication,
                                         transparency, and collaboration. We work
@@ -65,14 +56,14 @@ export default function Chooseus() {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-lg-7 col-md-12">
+                        <div className="col-lg-6 col-md-12">
                             <div className="right-column">
                                 <div className="single-item">
                                     <div className="icon-box">
                                         <i className="flaticon-chart" />
                                     </div>
                                     <h3>Quality Assurance</h3>
-                                    <p>
+                                    <p className="text-align">
                                         We adhere to the highest industry
                                         standards and best practices to ensure
                                         the quality and integrity of our work.
@@ -86,7 +77,7 @@ export default function Chooseus() {
                                         <i className="flaticon-business-and-finance" />
                                     </div>
                                     <h3>Sustainable Solutions</h3>
-                                    <p>
+                                    <p className="text-align">
                                         We are dedicated to environmental
                                         responsibility. Our focus on sustainable
                                         engineering practices not only benefits

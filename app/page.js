@@ -12,7 +12,6 @@ export default function Home() {
             <Layout headerStyle={14} footerStyle={14} wrapperCls="home_14">
                 <Banner />
                 <Feature />
-                <About/>
                 <Process />
                 <Chooseus />
                 <Projects />

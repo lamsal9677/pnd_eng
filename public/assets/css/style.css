@@ -78,7 +78,7 @@ body {
 }
 
 a {
-    /* color: #7dafc3 !important; */
+    /* color: #133441 !important; */
     text-decoration: none;
     cursor: pointer;
 }
@@ -946,7 +946,7 @@ body .btn-style-one:hover {
     font-weight: 500;
     text-transform: capitalize;
     font-family: var(--fira-sans);
-    color: #201630;
+    color: #133441;
     padding: 3px 0px;
     opacity: 1;
     -webkit-transition: all 300ms ease;
@@ -3497,7 +3497,7 @@ body .btn-style-one:hover {
     position: relative;
     height: 3px;
     width: 70px;
-    background:#7dafc3 ;
+    background:#133441 ;
     display: block;
 }
 
@@ -6376,7 +6376,7 @@ body .btn-style-one:hover {
     text-align: center;
     z-index: 100;
     cursor: pointer;
-    background: #7dafc3;
+    background: #133441;
     border-radius: 50%;
     margin-left: -26px;
     display: none;
@@ -8925,15 +8925,15 @@ body .btn-style-one:hover {
 }
 
 .about-section-three .team-area h4 {
-    color:#7dafc3;
+    color:#133441;
 }
 
 .about-section-three .team-area .designation {
-    color:#7dafc3;
+    color:#133441;
 }
 
 .team-block-two .content:before{
-    border-right: 3px solid #7dafc3;
+    border-right: 3px solid #133441;
 }
 
 
@@ -12423,9 +12423,9 @@ body .btn-style-one:hover {
     right: 0px;
     bottom: 0px;
     top: 0px;
-    background-image: -moz-linear-gradient(90deg, #7dafc3 0%, #7dafc3 100%);
-    background-image: -ms-linear-gradient(90deg, #7dafc3 0%, rgba(15, 49, 134, 0) 100%);
-    background-image: -webkit-linear-gradient(90deg, #7dafc3 0%, rgba(15, 49, 134, 0) 100%);
+    background-image: -moz-linear-gradient(90deg, #133441 0%, #133441 100%);
+    background-image: -ms-linear-gradient(90deg, #133441 0%, rgba(15, 49, 134, 0) 100%);
+    background-image: -webkit-linear-gradient(90deg, #133441 0%, rgba(15, 49, 134, 0) 100%);
 }
 
 .project-block-three .inner-box:hover .overlay-content {
@@ -13253,7 +13253,7 @@ body .btn-style-one:hover {
     position: relative;
     padding: 30px;
     border-radius: 6px;
-    background:#7dafc3;
+    background:#133441;
 }
 
 .project-block-seven h2 {
@@ -14519,7 +14519,7 @@ body .btn-style-one:hover {
     opacity: .74;
     background-image: -moz-linear-gradient(47deg, rgb(32, 22, 48) 37%, rgb(122, 41, 32) 86%);
     background-image: -ms-linear-gradient(47deg, rgb(32, 22, 48) 37%, rgb(122, 41, 32) 86%);
-    background-image: -webkit-linear-gradient(90deg, #7dafc3 0%, rgba(15, 49, 134, 0) 100%);
+    background-image: -webkit-linear-gradient(90deg, #133441 0%, rgba(15, 49, 134, 0) 100%);
 }
 
 .service-block-six .icon-box {
@@ -18187,7 +18187,7 @@ body .btn-style-one:hover {
 
 .services-details .tab-btn-style-one li a.active,
 .services-details .tab-btn-style-one li a:hover {
-    color: #7dafc3;
+    color: #133441;
 }
 
 .services-details .tab-btn-style-one li a:before {
@@ -20482,7 +20482,7 @@ p {
 }
 
 .chooseus-home-6 .right-column .single-item:hover .icon-box {
-    background: #7dafc3;
+    background: #133441;
 }
 
 .chooseus-home-6 .right-column .single-item h3 {
@@ -20500,7 +20500,7 @@ p {
     content: '';
     height: 3px;
     width: 70px;
-    background:#7dafc3;
+    background:#133441;
     left: 0px;
     bottom: 0px;
     background-repeat: no-repeat;
@@ -43684,4 +43684,12 @@ figure {
 
 .common-container{
     padding:50px 0 70px 0 !important;
+}
+
+.text-align{
+    text-align: justify;
+}
+
+.alternate-background{
+    background: #f5f5f5 !important;
 }
