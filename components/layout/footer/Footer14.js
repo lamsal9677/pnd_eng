@@ -15,13 +15,13 @@ export default function Footer14() {
                             <div className="row clearfix">
                                 <div className="col-lg-4 col-md-6 col-sm-12 info-column">
                                     <div className="info-box">
-                                        <h6>Location</h6>
+                                        <h6 className="footer-title">Location</h6>
                                         <p>96 Queen Park, Los Vegas, USA</p>
                                     </div>
                                 </div>
                                 <div className="col-lg-4 col-md-6 col-sm-12 info-column">
                                     <div className="info-box">
-                                        <h6>Phone</h6>
+                                        <h6 className="footer-title">Phone</h6>
                                         <p>
                                             <Link href="tel:18005554400">
                                                 +1 800 555 44 00
@@ -35,7 +35,7 @@ export default function Footer14() {
                                 </div>
                                 <div className="col-lg-4 col-md-6 col-sm-12 info-column">
                                     <div className="info-box">
-                                        <h6>Off.Hrs</h6>
+                                        <h6 className="footer-title">Off.Hrs</h6>
                                         <p>Mon - Sat: 9.00 to 6.00</p>
                                     </div>
                                 </div>

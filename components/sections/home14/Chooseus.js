@@ -28,7 +28,7 @@ export default function Chooseus() {
                                 </div>
                                 <div className="single-item">
                                     <div className="icon-box">
-                                        <i className="flaticon-chart" />
+                                        <i className="flaticon-rocket-2" />
                                     </div>
                                     <h3>Innovation</h3>
                                     <p className="text-align">
@@ -74,7 +74,7 @@ export default function Chooseus() {
                                 </div>
                                 <div className="single-item">
                                     <div className="icon-box">
-                                        <i className="flaticon-business-and-finance" />
+                                        <i className="flaticon-money" />
                                     </div>
                                     <h3>Sustainable Solutions</h3>
                                     <p className="text-align">

@@ -11,7 +11,6 @@ export default function Projects() {
                 <div className="auto-container">
                     <div className="sec-title-three text-center">
                         <h2>Our projects make uniqueness <br /> from others</h2>
-                        <span className="text-decoration-three" />
                     </div>
                    <PortfolioFilter5/>
                 </div>

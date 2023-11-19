@@ -35,14 +35,14 @@ export default function Home() {
                                     <div className="inner-container">
                                         <div className="wrapper-box">
                                             <div className="sec-title-three light">
-                                                <h2>New case? </h2>
-                                <h2>We’d love to help you</h2>
+                                                <h2 className="footer-title">New case? </h2>
+                                <h2 className="footer-title">We’d love to help you</h2>
 
                                                 <div className="text" style={{color:"white"}}>Please feel free to get in touch using the form below. We'd love to hear your <br /> thoughts &amp; answer any questions you may have!</div>
                                             </div>
                                             <div className="author-box">
-                                                <div className="image"><img src="/assets/images/icons/icon-51.png" alt="" /></div>
-                                                <h4 className="custom-title">Have a Question?</h4>
+                                            
+                                                <h4 className="footer-title">Have a Question?</h4>
                                                 <div className="phone-numer">+888 445 55 678 &amp; 89</div>
                                             </div>
                                             <ul className="list">
