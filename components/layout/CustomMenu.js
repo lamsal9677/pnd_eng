@@ -18,7 +18,7 @@ export default function Menu() {
                     <Link href="/services">Our Work</Link>
                 </li>
                 <li className="dropdown">
-                    <Link href="/contact-2">Contact Us</Link>
+                    <Link href="/contact-us">Contact Us</Link>
                 </li>
             </ul>
         </>

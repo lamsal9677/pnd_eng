@@ -43,16 +43,16 @@ export default function Footer14() {
                         </div>
                         <ul className="footer-menu clearfix">
                             <li>
-                                <Link href="/index-14">Home</Link>
+                                <Link href="/">Home</Link>
                             </li>
                             <li>
-                                <Link href="/index-14">About Us</Link>
+                                <Link href="/about-us">About Us</Link>
                             </li>
                             <li>
-                                <Link href="/index-14">Our Works</Link>
+                                <Link href="/services">Our Works</Link>
                             </li>
                             <li>
-                                <Link href="/index-14">Contact Us</Link>
+                                <Link href="/contact-us">Contact Us</Link>
                             </li>
                         </ul>
                     </div>

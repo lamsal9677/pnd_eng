@@ -8,7 +8,7 @@ export default function Chooseus() {
                         <h2>Why Choose Us?</h2>
                     </div>
                 <div className="auto-container">
-                    <div className="row clearfix flex-nowrap">
+                    <div className="row clearfix">
                         <div className="col-lg-6 col-md-12">
                             <div className="right-column">
                                 <div className="single-item">

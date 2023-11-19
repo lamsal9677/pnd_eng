@@ -30,23 +30,7 @@ export default function MobileMenu({ isSidebar, handleMobileMenu, handleSidebar 
                         <div className="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
                             <ul className="navigation clearfix">
                                 <li className={isActive.key == 1 ? "dropdown current" : "dropdown"}><Link href="/">Home</Link>
-                                    <ul style={{ display: `${isActive.key == 1 ? "block" : "none"}` }}>
-                                        <li><Link href="/">Home Business</Link></li>
-                                        <li><Link href="/index-2">Home Consulting</Link></li>
-                                        <li><Link href="/index-3">Home Corporate</Link></li>
-                                        <li><Link href="/index-4">Home Software</Link></li>
-                                        <li><Link href="/index-5">Home Finance</Link></li>
-                                        <li><Link href="/index-6">Home Law Firm</Link></li>
-                                        <li><Link href="/index-7">Home Insurance</Link></li>
-                                        <li><Link href="/index-8">Home Psychologist</Link></li>
-                                        <li><Link href="/index-9">Home Auto Repai</Link></li>
-                                        <li><Link href="/index-10">Home Movers and Packers</Link></li>
-                                        <li><Link href="/index-11">Home Visa Consultant</Link></li>
-                                        <li><Link href="/index-12">Home Online Course</Link></li>
-                                        <li><Link href="/index-13">Home Construction</Link></li>
-                                        <li><Link href="/index-14">Home Architecture</Link></li>
-                                        <li><Link href="/index-15">Home Digital Agency</Link></li>
-                                    </ul>
+                                   
                                     <div className={isActive.key == 1 ? "dropdown-btn open" : "dropdown-btn"} onClick={() => handleToggle(1)}><span className="fa fa-angle-right" /></div></li>
                                 <li className={isActive.key == 2 ? "dropdown current" : "dropdown"}><Link href="/#">Company</Link>
                                     <ul style={{ display: `${isActive.key == 2 ? "block" : "none"}` }}>

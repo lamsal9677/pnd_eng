@@ -6,7 +6,7 @@ import { useState } from 'react'
 
 
 //import the form css
-import './ContactForm.css'
+import './contactForm.css'
 
 
 export default function Home() {
