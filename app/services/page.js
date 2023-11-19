@@ -20,7 +20,7 @@ export default function Home() {
                                 <div className="col-lg-4 service-block-six">
                                     <div className="inner-box">
                                         <div className="image-box">
-                                            <img className="lazy-image owl-lazy" src="/assets/images/resource/image-34.jpg" alt="" />
+                                            <img className="lazy-image owl-lazy" src="/assets/myImages/horiz/adu.jpeg" alt="" />
                                             <div className="icon-box">
                                                 <div className="icon"><span className="flaticon-up" /></div>
                                                 <h4>Accessory Dwelling Units (ADU)</h4>
@@ -35,7 +35,7 @@ export default function Home() {
                                 <div className="col-lg-4 service-block-six">
                                     <div className="inner-box">
                                         <div className="image-box">
-                                            <img className="lazy-image owl-lazy" src="/assets/images/resource/image-35.jpg" alt="" />
+                                            <img className="lazy-image owl-lazy" src="/assets/myImages/horiz/new.jpeg" alt="" />
                                             <div className="icon-box">
                                                 <div className="icon"><span className="flaticon-chart" /></div>
                                                 <h4>Single Family Residental Structures</h4>
@@ -51,7 +51,7 @@ export default function Home() {
                                 <div className="col-lg-4 service-block-six">
                                     <div className="inner-box">
                                         <div className="image-box">
-                                            <img className="lazy-image owl-lazy" src="/assets/images/resource/image-37.jpg" alt="" />
+                                            <img className="lazy-image owl-lazy" src="/assets/myImages/horiz/alter.jpeg" alt="" />
                                             <div className="icon-box">
                                                 <div className="icon"><span className="flaticon-agreement" /></div>
                                                 <h4>Alteration and addition to existing structures</h4>
@@ -66,7 +66,7 @@ export default function Home() {
                                 <div className="col-lg-4 service-block-six">
                                     <div className="inner-box">
                                         <div className="image-box">
-                                            <img className="lazy-image owl-lazy" src="/assets/images/resource/image-38.jpg" alt="" />
+                                            <img className="lazy-image owl-lazy" src="/assets/myImages/horiz/deck.jpeg" alt="" />
                                             <div className="icon-box">
                                                 <div className="icon"><span className="flaticon-thought" /></div>
                                                 <h4>Deck Designs</h4>
@@ -81,7 +81,7 @@ export default function Home() {
                                 <div className="col-lg-4 service-block-six">
                                     <div className="inner-box">
                                         <div className="image-box">
-                                            <img className="lazy-image owl-lazy" src="/assets/images/resource/image-39.jpg" alt="" />
+                                            <img className="lazy-image owl-lazy" src="/assets/myImages/horiz/wall.jpeg" alt="" />
                                             <div className="icon-box">
                                                 <div className="icon"><span className="flaticon-gear-1" /></div>
                                                 <h4>Retaining Wall Designs</h4>
@@ -96,7 +96,7 @@ export default function Home() {
                                 <div className="col-lg-4 service-block-six">
                                     <div className="inner-box">
                                         <div className="image-box">
-                                            <img className="lazy-image owl-lazy" src="/assets/images/resource/image-39.jpg" alt="" />
+                                            <img className="lazy-image owl-lazy" src="/assets/myImages/horiz/report.jpeg" alt="" />
                                             <div className="icon-box">
                                                 <div className="icon"><span className="flaticon-gear-1" /></div>
                                                 <h4>Structural Evaluations and Reports</h4>
@@ -111,7 +111,7 @@ export default function Home() {
                                 <div className="col-lg-4 service-block-six">
                                     <div className="inner-box">
                                         <div className="image-box">
-                                            <img className="lazy-image owl-lazy" src="/assets/images/resource/image-39.jpg" alt="" />
+                                            <img className="lazy-image owl-lazy" src="/assets/myImages/horiz/commercial.jpeg" alt="" />
                                             <div className="icon-box">
                                                 <div className="icon"><span className="flaticon-gear-1" /></div>
                                                 <h4>Commercial Designs</h4>

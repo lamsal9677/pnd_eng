@@ -38,7 +38,7 @@ export default function Banner() {
                     <SwiperSlide className="slide-item">
                         <div
                             className="image-layer lazy-image"
-                            data-bg="/assets/myImages/banner.jpg"
+                            data-bg="/assets/myImages/banner.jpeg"
                         />
                         <div className="auto-container">
                             <div className="row clearfix">

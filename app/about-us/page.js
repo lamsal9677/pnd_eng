@@ -13,7 +13,7 @@ export default function Home() {
                             <div className="col-lg-12 content-side">
                                 <div className="blog-single-post">
                                     <div className="top-content">
-                                        <div className="image"><img src="/assets/images/resource/news-42.jpg" alt="" /></div>
+                                        <div className="image"><img src="/assets/myImages/about/about.jpeg" alt="" /></div>
                                     </div>
                                     <div className="lower-content">
                                         

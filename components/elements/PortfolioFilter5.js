@@ -49,7 +49,7 @@ export default function PortfolioFilter5() {
                 
                 <div className="project-block-three col-lg-3 col-md-6">
                     <div className="inner-box">
-                        <div className="image"><img src="/assets/images/gallery/gallery-3-2.jpg" alt="" /></div>
+                        <div className="image"><img src="/assets/myImages/vert/adu.jpeg" alt="" /></div>
                         <div className="overlay-content">
                             <div className="content">
                                 <div className="category">Accessory Dwelling Units (ADU)</div>
@@ -61,7 +61,7 @@ export default function PortfolioFilter5() {
                 </div>
                 <div className="project-block-three col-lg-3 col-md-6">
                     <div className="inner-box">
-                        <div className="image"><img src="/assets/images/gallery/gallery-3-3.jpg" alt="" /></div>
+                        <div className="image"><img src="/assets/myImages/vert/new.jpeg" alt="" /></div>
                         <div className="overlay-content">
                             <div className="content">
                                 <div className="category">Single Family Residental Structures</div>
@@ -73,7 +73,7 @@ export default function PortfolioFilter5() {
                 </div>
                 <div className="project-block-three col-lg-3 col-md-6">
                     <div className="inner-box">
-                        <div className="image"><img src="/assets/images/gallery/gallery-3-4.jpg" alt="" /></div>
+                        <div className="image"><img src="/assets/myImages/horiz/wall.jpeg" alt="" /></div>
                         <div className="overlay-content">
                             <div className="content">
                                 <div className="category">Retaining Wall Designs</div>
@@ -85,7 +85,7 @@ export default function PortfolioFilter5() {
                 </div>
                 <div className="project-block-three col-lg-3 col-md-6">
                     <div className="inner-box">
-                        <div className="image"><img src="/assets/images/gallery/gallery-3-5.jpg" alt="" /></div>
+                        <div className="image"><img src="/assets/myImages/horiz/deck.jpeg" alt="" /></div>
                         <div className="overlay-content">
                             <div className="content">
                                 <div className="category">Deck Designs</div>
@@ -97,7 +97,7 @@ export default function PortfolioFilter5() {
                 </div>
                 <div className="project-block-three col-lg-3 col-md-6">
                     <div className="inner-box">
-                        <div className="image"><img src="/assets/images/gallery/gallery-3-3.jpg" alt="" /></div>
+                        <div className="image"><img src="/assets/myImages/vert/alter.jpeg" alt="" /></div>
                         <div className="overlay-content">
                             <div className="content">
                                 <div className="category">Alteration and addition to<br/> existing structures</div>
@@ -117,7 +117,7 @@ export default function PortfolioFilter5() {
                 
                 <div className="project-block-three col-lg-3 col-md-6">
                     <div className="inner-box">
-                        <div className="image"><img src="/assets/images/gallery/gallery-3-5.jpg" alt="" /></div>
+                        <div className="image"><img src="/assets/myImages/horiz/commercial.jpeg" alt="" /></div>
                         <div className="overlay-content">
                             <div className="content">
                                 <div className="category">Commercial Designs</div>
@@ -129,7 +129,7 @@ export default function PortfolioFilter5() {
                 </div>
                 <div className="project-block-three col-lg-3 col-md-6">
                     <div className="inner-box">
-                        <div className="image"><img src="/assets/images/gallery/gallery-3-4.jpg" alt="" /></div>
+                        <div className="image"><img src="/assets/myImages/special-case/eval.jpeg" alt="" /></div>
                         <div className="overlay-content">
                             <div className="content">
                                 <div className="category">Structural Evaluations and Reports</div>
