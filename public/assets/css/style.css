@@ -43702,3 +43702,14 @@ figure {
 .tabs-container{
     padding-top:40px;
 }
+
+.icon-height{
+    width: 255px;
+    height: 84px;
+    object-fit: cover;
+}
+
+.project-inside-img{
+    height:615px;
+    object-fit:cover;
+}

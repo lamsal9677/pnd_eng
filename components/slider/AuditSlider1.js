@@ -24,26 +24,14 @@ const swiperOptions = {
         clickable: true,
     },
 }
-export default function AuditSlider1() {
+export default function AuditSlider1({src}) {
     return (
         <>
 
             <Swiper {...swiperOptions} className="theme_carousel owl-theme">
                 <SwiperSlide className="slide">
                     <div className="image-slide">
-                        <img src="/assets/images/resource/single-service-5.jpg" alt="" />
-                        
-                    </div>
-                </SwiperSlide>
-                <SwiperSlide className="slide">
-                    <div className="image-slide">
-                        <img src="/assets/images/resource/single-service-2.jpg" alt="" />
-                        
-                    </div>
-                </SwiperSlide>
-                <SwiperSlide className="slide">
-                    <div className="image-slide">
-                        <img src="/assets/images/resource/single-service-3.jpg" alt="" />
+                        <img className="project-inside-img" src={src} alt="" />
                         
                     </div>
                 </SwiperSlide>

@@ -1,4 +1,3 @@
-
 import Layout from "@/components/layout/Layout"
 import AuditSlider1 from "@/components/slider/AuditSlider1"
 import ServiceTab from "./ServiceTabs.js"
@@ -17,7 +16,7 @@ export default function Home() {
                             <div className="row">
                                 <div className="col-lg-8 content-side">
                                     {/*Theme Carousel*/}
-                                    <AuditSlider1 />
+                                    <AuditSlider1 src={"/assets/myImages/sources/ADU.jpeg"} />
                                 </div>
                                 <aside className="col-lg-4">
                                     <div className="service-sidebar">

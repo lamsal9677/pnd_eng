@@ -15,7 +15,8 @@ export default function Home() {
                             <div className="row">
                                 <div className="col-lg-8 content-side">
                                     {/*Theme Carousel*/}
-                                    <AuditSlider1 />
+                                    <AuditSlider1 src={"/assets/myImages/sources/New construction single family residential.jpeg"} />
+
                                 </div>
                                 <aside className="col-lg-4">
                                     <div className="service-sidebar">

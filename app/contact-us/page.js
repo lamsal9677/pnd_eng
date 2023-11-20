@@ -35,7 +35,7 @@ export default function Home() {
                 <div>
 
                     {/* Contact Section Style Five */}
-                    <section className="contact-section style-five">
+                    <section className="contact-section style-five" style={{padding:0}}>
                         <div className="auto-container" style={{ backgroundImage: 'url(assets/myImages/stacked-waves-haikei.svg)',backgroundSize:'cover' }}>
                             <div className="row m-0">
                                 <div className="col-lg-6 left-column" >
@@ -50,7 +50,9 @@ export default function Home() {
                                             <div className="author-box">
                                             
                                                 <h4 className="footer-title">Have a Question?</h4>
+                                                <br/>
                                                 <div className="phone-numer">+1 419 321 1231</div>
+                                                <br/>
                                                 <div className="phone-numer">abcd@xyz.com</div>
                                             </div>
                                         </div>
