@@ -129,7 +129,7 @@ export default function PortfolioFilter5() {
                 </div>
                 <div className="project-block-three col-lg-3 col-md-6">
                     <div className="inner-box">
-                        <div className="image"><img src="/assets/myImages/special-case/eval.jpeg" alt="" /></div>
+                        <div className="image"><img src="/assets/myImages/horiz/eval.jpeg" alt="" /></div>
                         <div className="overlay-content">
                             <div className="content">
                                 <div className="category">Structural Evaluations and Reports</div>

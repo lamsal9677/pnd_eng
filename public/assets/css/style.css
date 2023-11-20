@@ -83,6 +83,11 @@ a {
     cursor: pointer;
 }
 
+.footer-link:hover{
+    color: grey !important;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Add shadow on hover */
+}
+
 a:hover,
 a:focus,
 a:visited {
@@ -225,23 +230,23 @@ img {
     z-index: 999;
     background-position: center center;
     background-repeat: no-repeat;
-    background-image: url(../images/icons/preloader.svg);
+    background-image: url(../inUse/preloader.svg);
 }
 
 .style-two .preloader {
-    background-image: url(../images/icons/preloader-2.svg);
+    background-image: url(../inUse/preloader-2.svg);
 }
 
 .style-three .preloader {
-    background-image: url(../images/icons/preloader-3.svg);
+    background-image: url(../inUse/preloader-3.svg);
 }
 
 .style-four .preloader {
-    background-image: url(../images/icons/preloader-4.svg);
+    background-image: url(../inUse/preloader-4.svg);
 }
 
 .style-five .preloader {
-    background-image: url(../images/icons/preloader-5.svg);
+    background-image: url(../inUse/preloader-5.svg);
 }
 
 .preloader-close {
@@ -1287,7 +1292,7 @@ body .btn-style-one:hover {
 
 .header-top-two {
     position: relative;
-    background-image: url(../images/shape/pattern-9.png);
+    background-image: url(../inUse/pattern-9.png);
     padding: 11.5px 0;
 }
 
@@ -1522,7 +1527,7 @@ body .btn-style-one:hover {
     bottom: -13px;
     width: 12px;
     height: 13px;
-    background-image: url(../images/icons/icon-33.png);
+    background-image: url(../inUse/icon-33.png);
 }
 
 .header-middle .btn-style-one .btn-title {
@@ -4561,7 +4566,7 @@ body .btn-style-one:hover {
     -webkit-transform: translate(50%, -50%);
     -ms-transform: translate(50%, -50%);
     transform: translate(50%, -50%);
-    background: url(../images/icons/icon-7.png) center center no-repeat;
+    background: url(../inUse/icon-7.png) center center no-repeat;
 }
 
 .process-block-one:last-child .inner-box::before {

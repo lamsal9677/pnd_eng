@@ -25,7 +25,7 @@ export default function MobileMenu({ isSidebar, handleMobileMenu, handleSidebar 
                 <div className="menu-backdrop" onClick={handleMobileMenu} />
                 <div className="close-btn" onClick={handleMobileMenu}><span className="icon flaticon-remove" /></div>
                 <nav className="menu-box">
-                    <div className="nav-logo"><Link href="/"><img src="/assets/myImages/logo1.jpg" className="icon-height" alt="" /></Link></div>
+                    <div className="nav-logo"><Link href="/"><img src="/assets/myImages/logox.svg" className="icon-height" alt="" /></Link></div>
                     <div className="menu-outer">
                         <div className="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
                             <ul className="navigation clearfix">

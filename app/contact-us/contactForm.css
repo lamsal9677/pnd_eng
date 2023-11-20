@@ -19,9 +19,14 @@
     opacity: 1 !important;
 }
 
+#ff-submit-root:hover{
+    --tw-shadow-color: rgba(0, 0, 0, 0.5) !important;
+}
+
 .ff-title .ff-form{
     font-size: 40px !important;
     font-family: var(--fira-sans) !important;
     font-weight: 500 !important;
     line-height: 50px !important;
 }
+

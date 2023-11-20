@@ -51,9 +51,11 @@ export default function Home() {
                                             
                                                 <h4 className="footer-title">Have a Question?</h4>
                                                 <br/>
-                                                <div className="phone-numer">+1 419 321 1231</div>
+                                                <div className="phone-numer">+1 510-926-7190</div>
                                                 <br/>
-                                                <div className="phone-numer">abcd@xyz.com</div>
+                                                <div className="phone-numer">Nasibpandey70@gmail.com</div>
+                                                <br/>
+                                                <div className="phone-numer">10879 San Pable Ave, El Cerrito CA</div>
                                             </div>
                                         </div>
                                     </div>

@@ -4,7 +4,7 @@ import Chooseus from "@/components/sections/home14/Chooseus"
 import Feature from "@/components/sections/home14/Feature"
 import Process from "@/components/sections/home14/Process"
 import Projects from "@/components/sections/home14/Projects"
-import About from "@/components/sections/home14/About"
+// import About from "@/components/sections/home14/About"
 export default function Home() {
 
     return (
