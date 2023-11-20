@@ -817,7 +817,6 @@ body .btn-style-one:hover {
     position: relative;
     display: block;
     text-align: center;
-    padding: 22px 0px;
 }
 
 .main-header .nav-outer {
@@ -39183,7 +39182,7 @@ figure {
 }
 
 .header-style-14 .logo-box .logo {
-    padding: 25px 0px;
+    padding: 0px 0px;
 }
 
 .header-style-14 .main-menu .navigation>li.dropdown>a:after {

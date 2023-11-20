@@ -12,12 +12,12 @@ export default function Header14({ scroll, isMobileMenu, handleMobileMenu, isSid
                     <div className="auto-container">
                         <div className="outer-box">
                             <div className="logo-box">
-                                <figure className="logo"><a href="/"><img src="/assets/images-4/logo-2.png" alt="" /></a></figure>
+                                <figure className="logo"><a href="/"><img src="/assets/myImages/special-case/logo2.jpg" alt="" /></a></figure>
                             </div>
                             {/*Nav Box*/}
                             <div className="nav-outer clearfix">
                                 {/*Mobile Navigation Toggler*/}
-                                <div className="mobile-nav-toggler" onClick={handleMobileMenu}><img src="/assets/images-2/icons/icon-bar-3.png" alt="" /></div>
+                                <div className="mobile-nav-toggler" onClick={handleMobileMenu}><img src="/assets/myImages/special-case/logo2.jpg" alt="" /></div>
                                 {/* Main Menu */}
                                 <nav className="main-menu navbar-expand-md navbar-light">
                                     <div className="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
@@ -41,12 +41,12 @@ export default function Header14({ scroll, isMobileMenu, handleMobileMenu, isSid
                     <div className="auto-container">
                         <div className="outer-box">
                             <div className="logo-box">
-                                <figure className="logo"><a href="/index-13"><img src="/assets/images-4/logo-2.png" alt="" /></a></figure>
+                                <figure className="logo"><a href="/index-13"><img src="/assets/myImages/special-case/logo2.jpg" alt="" /></a></figure>
                             </div>
                             {/*Nav Box*/}
                             <div className="nav-outer clearfix">
                                 {/*Mobile Navigation Toggler*/}
-                                <div className="mobile-nav-toggler" onClick={handleMobileMenu}><img src="/assets/images-2/icons/icon-bar-3.png" alt="" /></div>
+                                <div className="mobile-nav-toggler" onClick={handleMobileMenu}><img src="/assets/myImages/special-case/logo2.jpg" alt="" /></div>
                                 {/* Main Menu */}
                                 <nav className="main-menu navbar-expand-md navbar-light">
                                     <CustomMenu />

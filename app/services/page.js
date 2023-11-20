@@ -28,7 +28,7 @@ export default function Home() {
                                             <div className="overlay"><Link href="/adu"><span className="flaticon-right" /></Link></div>
                                         </div>
                                         <div className="content">
-                                            <div className="text">Business will frequent occurs that have <br /> repudiated accepted cases.</div>
+                                            <div className="text">Unlocking Residential Potential: Versatile, Sustainable Accessory Dwelling Units</div>
                                         </div>
                                     </div>
                                 </div>
@@ -43,7 +43,7 @@ export default function Home() {
                                             <div className="overlay"><Link href="/single-family"><span className="flaticon-right" /></Link></div>
                                         </div>
                                         <div className="content">
-                                            <div className="text">Obligations of business will frequently <br />occurs pleasures accepted.</div>
+                                            <div className="text">Crafting Your Dream Home: Unparalleled Single-Family Residential Construction</div>
                                         </div>
                                     </div>
                                 </div>
@@ -59,7 +59,7 @@ export default function Home() {
                                             <div className="overlay"><Link href="/alteration-addition-structures"><span className="flaticon-right" /></Link></div>
                                         </div>
                                         <div className="content">
-                                            <div className="text">Obligations of business will frequently <br />occurs pleasures accepted.</div>
+                                            <div className="text">Transforming Spaces, Preserving Memories: Expert Alterations and Additions</div>
                                         </div>
                                     </div>
                                 </div>
@@ -74,7 +74,7 @@ export default function Home() {
                                             <div className="overlay"><Link href="/deck-designs"><span className="flaticon-right" /></Link></div>
                                         </div>
                                         <div className="content">
-                                            <div className="text">Master-builder of human happiness no <br /> one avoids reject  pleasure itself.</div>
+                                            <div className="text">Crafting Outdoor Havens: Expertly Tailored Deck Designs for Unmatched Relaxation and Entertainment</div>
                                         </div>
                                     </div>
                                 </div>
@@ -89,7 +89,7 @@ export default function Home() {
                                             <div className="overlay"><Link href="/retaining-wall"><span className="flaticon-right" /></Link></div>
                                         </div>
                                         <div className="content">
-                                            <div className="text">Business will frequent occurs that have <br /> repudiated accepted cases.</div>
+                                            <div className="text">Enhancing Landscapes with Precision: Meticulous Retaining Wall Designs for Stability and Beauty</div>
                                         </div>
                                     </div>
                                 </div>
@@ -104,7 +104,7 @@ export default function Home() {
                                             <div className="overlay"><Link href="/structural-evaluations"><span className="flaticon-right" /></Link></div>
                                         </div>
                                         <div className="content">
-                                            <div className="text">Business will frequent occurs that have <br /> repudiated accepted cases.</div>
+                                            <div className="text">Ensuring Stability, Enhancing Safety: Comprehensive Structural Evaluations for Informed Decision-Making</div>
                                         </div>
                                     </div>
                                 </div>
@@ -119,7 +119,7 @@ export default function Home() {
                                             <div className="overlay"><Link href="/commercial-designs"><span className="flaticon-right" /></Link></div>
                                         </div>
                                         <div className="content">
-                                            <div className="text">Business will frequent occurs that have <br /> repudiated accepted cases.</div>
+                                            <div className="text">Strategic Blueprints for Success: Elevate Your Business with Our Innovative Commercial Designs</div>
                                         </div>
                                     </div>
                                 </div>
