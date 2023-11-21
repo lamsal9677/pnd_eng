@@ -4,7 +4,6 @@ import { useEffect, useState } from "react"
 import BackToTop from '../elements/BackToTop'
 import DataBg from "../elements/DataBg"
 import Breadcrumb from './Breadcrumb'
-import Sidebar from "./Sidebar"
 import Header14 from "./header/Header14"
 import Footer14 from "./footer/Footer14"
 
@@ -45,9 +44,6 @@ export default function Layout({ headerStyle, footerStyle, headTitle, breadcrumb
             <DataBg />
             <div className={`page-wrapper ${wrapperCls ? wrapperCls : ""}`} id="#top">
                 {headerStyle == 14 ? <Header14 scroll={scroll} isMobileMenu={isMobileMenu} handleMobileMenu={handleMobileMenu} handlePopup={handlePopup} isSidebar={isSidebar} handleSidebar={handleSidebar} /> : null}
-
-
-                <Sidebar isSidebar={isSidebar} handleSidebar={handleSidebar} />
 
                 {breadcrumbTitle && <Breadcrumb breadcrumbTitle={breadcrumbTitle} />}
 

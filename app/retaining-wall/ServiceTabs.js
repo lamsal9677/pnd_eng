@@ -38,17 +38,17 @@ export default function ServiceTabs1() {
                             Aesthetic Integration
                             </a>
                         </li>
-                        <li className="nav-item" onClick={() => handleOnClick(4)}>
+                        <li className="nav-item" onClick={() => handleOnClick(5)}>
                             <a className={activeIndex == 5 ? "nav-link active" : "nav-link"}>
                             Expert Engineering
                             </a>
                         </li>
-                        <li className="nav-item" onClick={() => handleOnClick(4)}>
+                        <li className="nav-item" onClick={() => handleOnClick(6)}>
                             <a className={activeIndex == 6 ? "nav-link active" : "nav-link"}>
                             Multi-Functional Design
                             </a>
                         </li>
-                        <li className="nav-item" onClick={() => handleOnClick(4)}>
+                        <li className="nav-item" onClick={() => handleOnClick(7)}>
                             <a className={activeIndex == 7 ? "nav-link active" : "nav-link"}>
                             Transforming Landscapes, Ensuring Stability
                             </a>
