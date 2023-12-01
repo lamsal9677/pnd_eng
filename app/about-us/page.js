@@ -27,7 +27,9 @@ export default function Home() {
                                         Welcome to P&D Engineering Solutions LLC, where innovation meets expertise in the
                                         realm of structural engineering. Founded by two passionate and highly skilled
                                         professional engineers, we bring a wealth of knowledge and experience to the industry.
-                                        Currently licensed in California, Texas, Colorado, Florida, and New Jersey, we are
+                                        <br/>
+                                        <br/>
+                                        Currently licensed in California, Nevada, Idaho, Utah, Texas, Colorado, Florida, and New Jersey, we are
                                         committed to providing top-notch engineering solutions to our clients.
                                             </div>
                                        

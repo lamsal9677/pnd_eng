@@ -56,7 +56,7 @@ export default function Footer14() {
                         <div className="copyright">
                             <p>
                                 Copyrights © {new Date().getFullYear()}{" "}
-                                <Link href="/index-14" className="footer-link">
+                                <Link href="/" className="footer-link">
                                     P&D Engineering Solutions LLC
                                 </Link>
                                 , All Rights Reserved.

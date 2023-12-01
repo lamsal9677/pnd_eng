@@ -12701,7 +12701,7 @@ body .btn-style-one:hover {
 }
 
 .accordion-box.style-two .block .acc-btn.active {
-    background: #201630;
+    background: #133441;
     border-color: #201630;
     color: #fff;
     border-left: 3px solid;
@@ -43709,9 +43709,15 @@ figure {
 }
 
 .icon-height{
-    width: 255px;
+    /* width: 255px; */
     height: 84px;
     object-fit: cover;
+}
+.icon-height-mobile{
+    /* width: 255px; */
+    height: 84px;
+    /* object-fit: cover; */
+
 }
 
 .project-inside-img{

@@ -73,7 +73,7 @@ export default function Home() {
                     {/* Faq Section Four */}
                     <section className="faq-section-four">
                         <div className="auto-container">
-                            <div className="sec-title text-center">
+                            <div className="sec-title-three text-center">
                                 <h2>Find answers in our <br /> list of frequently asked questions </h2>
                                 <div className="text-decoration">
                                     <span className="left" />

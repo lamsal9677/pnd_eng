@@ -25,7 +25,7 @@ export default function MobileMenu({ isSidebar, handleMobileMenu, handleSidebar 
                 <div className="menu-backdrop" onClick={handleMobileMenu} />
                 <div className="close-btn" onClick={handleMobileMenu}><span className="icon flaticon-remove" /></div>
                 <nav className="menu-box">
-                    <div className="nav-logo"><Link href="/"><img src="/assets/myImages/logox.svg" className="icon-height" alt="" /></Link></div>
+                    <div className="nav-logo"><Link href="/"><img src="/assets/myImages/logo-final-mobile.png" className="icon-height-mobile" alt="" /></Link></div>
                     <div className="menu-outer">
                         <div className="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
                             <ul className="navigation clearfix">
@@ -48,8 +48,9 @@ export default function MobileMenu({ isSidebar, handleMobileMenu, handleSidebar 
                     {/*Social Links*/}
                     <div className="social-links">
                         <ul className="clearfix">
-                            <li><Link href="/#"><span className="fab fa-facebook-square" /></Link></li>
-                            <li><Link href="/#"><span className="fab fa-instagram" /></Link></li>
+                        <li><a href="https://www.facebook.com/profile.php?id=61553893645830"><i className="fab fa-facebook-f" /></a></li>
+                        <li><a href="https://www.instagram.com/pndengineering?igshid=NzZlODBkYWE4Ng%3D%3D&utm_source=qr"><i className="fab fa-instagram" /></a></li>
+                        <li><a href="https://www.linkedin.com/company/pndeng/"><i className="fab fa-linkedin" /></a></li>
                         </ul>
                     </div>
                 </nav>
