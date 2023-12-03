@@ -1947,6 +1947,7 @@ body .btn-style-one:hover {
 
 .nav-outer .mobile-nav-toggler {
     position: relative;
+    border: solid #102d38;
     width: 50px;
     height: 50px;
     line-height: 44px;
