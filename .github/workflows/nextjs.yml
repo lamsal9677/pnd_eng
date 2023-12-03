@@ -3,7 +3,7 @@ name: Deploy Next.js site to Pages
 on:
   push:
     branches:
-      - deploy
+      - deploy-final
   workflow_dispatch:
 
 permissions:
@@ -22,7 +22,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
         with:
-          ref: deploy
+          ref: deploy-final
 
       - name: Detect package manager
         id: detect-package-manager
@@ -90,4 +90,4 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v2
         with:
-          branch: deploy
+          branch: deploy-final
