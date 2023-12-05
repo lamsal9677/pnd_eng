@@ -17466,8 +17466,8 @@ body .btn-style-one:hover {
 
 .blog-single-post .lower-content {
     position: relative;
-    margin: 0 100px;
-    padding: 0 100px;
+    margin: 0 10%;
+    padding: 0 10%;
     border-radius: 6px;
     margin-top: -100px;
     background-color: #fff;

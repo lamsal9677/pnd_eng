@@ -145,7 +145,7 @@
     }
 
     .nav-outer .mobile-nav-toggler {
-        display: block;
+        display: block !important;
     }
 
     .main-header.header-style-two .header-upper .logo-box .logo {
@@ -793,6 +793,8 @@
 
     .blog-single-post .lower-content {
         margin: 0;
+        padding: 0 2% !important;
+        margin: -100px 2% !important;
     }
 
     .blog-single-post .author-box {
