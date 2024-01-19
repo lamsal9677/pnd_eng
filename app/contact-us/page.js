@@ -55,7 +55,7 @@ export default function Home() {
                                                 <br/>
                                                 <div className="phone-numer">Nasibpandey70@gmail.com</div>
                                                 <br/>
-                                                <div className="phone-numer">10879 San Pable Ave, El Cerrito CA</div>
+                                                <div className="phone-numer">2383 N Main St Walnut Creek, CA 94596</div>
                                             </div>
                                         </div>
                                     </div>

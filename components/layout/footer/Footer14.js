@@ -16,7 +16,7 @@ export default function Footer14() {
                                 <div className="col-lg-4 col-md-6 col-sm-12 info-column">
                                     <div className="info-box">
                                         <h6 className="footer-title">Location</h6>
-                                        <p>10879 San Pable Ave, El Cerrito CA, USA</p>
+                                        <p>2383 N Main St Walnut Creek, CA 94596</p>
                                     </div>
                                 </div>
                                 <div className="col-lg-4 col-md-6 col-sm-12 info-column">
