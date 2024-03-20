@@ -1,6 +1,7 @@
 'use client'
 import Link from "next/link"
 import { useState } from "react"
+import ThumbtackWidget from "../elements/Thumbtack"
 export default function MobileMenu({ isSidebar, handleMobileMenu, handleSidebar }) {
     const [isActive, setIsActive] = useState({
         status: false,
@@ -52,6 +53,9 @@ export default function MobileMenu({ isSidebar, handleMobileMenu, handleSidebar 
                         <li><a href="https://www.instagram.com/pndeng01"><i className="fab fa-instagram" /></a></li>
                         <li><a href="https://www.linkedin.com/company/pndeng/"><i className="fab fa-linkedin" /></a></li>
                         </ul>
+                    </div>
+                    <div className="social-links">
+                        <ThumbtackWidget/>
                     </div>
                 </nav>
             </div>{/* End Mobile Menu */}

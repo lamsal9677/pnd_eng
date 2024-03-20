@@ -1,3 +1,4 @@
+import ThumbtackWidget from "@/components/elements/Thumbtack-header"
 import CustomMenu from "../CustomMenu"
 import MobileMenu from "../MobileMenu"
 export default function Header14({ scroll, isMobileMenu, handleMobileMenu, isSidebar, handlePopup, handleSidebar }) {
@@ -33,6 +34,7 @@ export default function Header14({ scroll, isMobileMenu, handleMobileMenu, isSid
                                     <li><a href="https://www.linkedin.com/company/pndeng/"><i className="fab fa-linkedin" /></a></li>
                                 </ul>
                             </div>
+                            <ThumbtackWidget />
                         </div>
                     </div>
                 </div>
