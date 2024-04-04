@@ -15,7 +15,7 @@ export default function Feature() {
                                 <div className="inner-box">
                                     <div className="icon-box"><i className="customicon-architect" /></div>
                                     <h3><Link href="/index-14"> Experience</Link></h3>
-                                    <p>Our power of choice is untrameled when nothing prevents our being able to do what we like best</p>
+                                    {/* <p>Our power of choice is untrameled when nothing prevents our being able to do what we like best</p> */}
                                 </div>
                             </div>
                         </div>
@@ -24,7 +24,7 @@ export default function Feature() {
                                 <div className="inner-box">
                                     <div className="icon-box"><i className="customicon-global" /></div>
                                     <h3><Link href="/index-14">Client Commitment</Link></h3>
-                                    <p>Righteous indignation &amp;dislike men who are beguiled and demoralized charms of pleasure.</p>
+                                    {/* <p>Righteous indignation &amp;dislike men who are beguiled and demoralized charms of pleasure.</p> */}
                                 </div>
                             </div>
                         </div>
@@ -33,7 +33,7 @@ export default function Feature() {
                                 <div className="inner-box">
                                     <div className="icon-box"><i className="customicon-checkmark" /></div>
                                     <h3><Link href="/index-14">Championing  Vision</Link></h3>
-                                    <p>Trouble that are bound to ensue and equal blame belongs to those who fail their duty through.</p>
+                                    {/* <p>Trouble that are bound to ensue and equal blame belongs to those who fail their duty through.</p> */}
                                 </div>
                             </div>
                         </div>
