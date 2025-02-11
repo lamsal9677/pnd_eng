@@ -16,7 +16,11 @@ export default function Footer14() {
                                 <div className="col-lg-4 col-md-6 col-sm-12 info-column">
                                     <div className="info-box">
                                         <h6 className="footer-title">Location</h6>
-                                        <p>Walnut Creek, CA</p>
+                                        <p>
+                                            21 Orinda Way Ste C #246
+                                            <br/>
+                                            Orinda, CA    
+                                        </p>
                                     </div>
                                 </div>
                                 <div className="col-lg-4 col-md-6 col-sm-12 info-column">
