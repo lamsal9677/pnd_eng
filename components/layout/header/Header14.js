@@ -1,3 +1,4 @@
+import ThumbtackWidget from "@/components/elements/Thumbtack-header"
 import CustomMenu from "../CustomMenu"
 import MobileMenu from "../MobileMenu"
 export default function Header14({ scroll, isMobileMenu, handleMobileMenu, isSidebar, handlePopup, handleSidebar }) {
@@ -28,11 +29,12 @@ export default function Header14({ scroll, isMobileMenu, handleMobileMenu, isSid
                             </div>
                             <div className="nav-right clearfix">
                                 <ul className="social-links clearfix">
-                                    <li><a href="https://www.facebook.com/profile.php?id=61553893645830"><i className="fab fa-facebook-f" /></a></li>
-                                    <li><a href="https://www.instagram.com/pndengineering?igshid=NzZlODBkYWE4Ng%3D%3D&utm_source=qr"><i className="fab fa-instagram" /></a></li>
+                                    <li><a href="https://www.facebook.com/profile.php?id=61556588082460"><i className="fab fa-facebook-f" /></a></li>
+                                    <li><a href="https://www.instagram.com/pndeng01"><i className="fab fa-instagram" /></a></li>
                                     <li><a href="https://www.linkedin.com/company/pndeng/"><i className="fab fa-linkedin" /></a></li>
                                 </ul>
                             </div>
+                            <ThumbtackWidget />
                         </div>
                     </div>
                 </div>
@@ -56,8 +58,8 @@ export default function Header14({ scroll, isMobileMenu, handleMobileMenu, isSid
                             </div>
                             <div className="nav-right clearfix">
                                 <ul className="social-links clearfix">
-                                <li><a href="https://www.facebook.com/profile.php?id=61553893645830"><i className="fab fa-facebook-f" /></a></li>
-                                <li><a href="https://www.instagram.com/pndengineering?igshid=NzZlODBkYWE4Ng%3D%3D&utm_source=qr"><i className="fab fa-instagram" /></a></li>
+                                <li><a href="https://www.facebook.com/profile.php?id=61556588082460"><i className="fab fa-facebook-f" /></a></li>
+                                <li><a href="https://www.instagram.com/pndeng01"><i className="fab fa-instagram" /></a></li>
                                 <li><a href="https://www.linkedin.com/company/pndeng/"><i className="fab fa-linkedin" /></a></li>
                                 </ul>
                             </div>

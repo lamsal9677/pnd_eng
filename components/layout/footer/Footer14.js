@@ -16,21 +16,27 @@ export default function Footer14() {
                                 <div className="col-lg-4 col-md-6 col-sm-12 info-column">
                                     <div className="info-box">
                                         <h6 className="footer-title">Location</h6>
-                                        <p>2383 N Main St Walnut Creek, CA 94596</p>
+                                        <p>
+                                            21 Orinda Way Ste C #246
+                                            <br/>
+                                            Orinda, CA    
+                                        </p>
                                     </div>
                                 </div>
                                 <div className="col-lg-4 col-md-6 col-sm-12 info-column">
                                     <div className="info-box">
                                         <h6 className="footer-title">Phone</h6>
                                         <p>
-                                                +1-510-926-7190
+                                                925-787-1272 (California)
+                                                <br/>
+                                                469-967-4003 (Texas)
                                         </p>
                                     </div>
                                 </div>
                                 <div className="col-lg-4 col-md-6 col-sm-12 info-column">
                                     <div className="info-box">
                                         <h6 className="footer-title">Email</h6>
-                                        <p>Nasibpandey70@gmail.com</p>
+                                        <p>info@pndeng.com</p>
                                     </div>
                                 </div>
                             </div>

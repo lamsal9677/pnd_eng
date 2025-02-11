@@ -51,11 +51,13 @@ export default function Home() {
                                             
                                                 <h4 className="footer-title">Have a Question?</h4>
                                                 <br/>
-                                                <div className="phone-numer">+1 510-926-7190</div>
+                                                <div className="phone-numer">925-787-1272 (California)</div>
                                                 <br/>
-                                                <div className="phone-numer">Nasibpandey70@gmail.com</div>
+                                                <div className="phone-numer">469-967-4003 (Texas)</div>
                                                 <br/>
-                                                <div className="phone-numer">2383 N Main St Walnut Creek, CA 94596</div>
+                                                <div className="phone-numer">info@pndeng.com</div>
+                                                <br/>
+                                                <div className="phone-numer">21 Orinda Way Ste C #246<br/>Orinda, CA 94563</div>
                                             </div>
                                         </div>
                                     </div>

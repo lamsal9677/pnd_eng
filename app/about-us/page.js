@@ -34,23 +34,7 @@ export default function Home() {
                                             </div>
                                        
                                         
-                                        <h3 className="custom-title">Our Story</h3>
-                                        <div className="text text-align">
-                                            <p>P&D Engineering Solutions LLC was established with a singular vision: to redefine the
-                                            standards of structural engineering. Founded by two dedicated engineers with extensive
-                                            backgrounds in the field, our company represents the culmination of years of academic
-                                            excellence and practical experience. Both co-founders hold master's degrees in
-                                            structural engineering and boast a combined experience of over 12 years in the
-                                            industry.</p>
-                                            <br/>
-                                            <p>Nasib Pandey, PE, holds a Master's degree in Civil Engineering from Lamar University,
-                                            graduating in 2016. Since then, he has been actively involved in the field of structural
-                                            engineering. With a shared vision and expertise in structural engineering, Nasib, with his
-                                            team, established P&D Engineering Solutions LLC, a company dedicated to delivering
-                                            top-quality and cost-effective designs for home improvement projects. With a
-                                            commitment to excellence, Nasib and his team strive to provide clients with optimal
-                                            solutions for their structural engineering needs.</p>
-                                        </div>
+
 
                                         <h3 className="custom-title">Our Mission</h3>
                                         <div className="text text-align">
