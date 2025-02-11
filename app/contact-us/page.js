@@ -57,7 +57,7 @@ export default function Home() {
                                                 <br/>
                                                 <div className="phone-numer">info@pndeng.com</div>
                                                 <br/>
-                                                <div className="phone-numer">Walnut Creek, CA</div>
+                                                <div className="phone-numer">21 Orinda Way Ste C #246</br>Orinda, CA 94563</div>
                                             </div>
                                         </div>
                                     </div>
