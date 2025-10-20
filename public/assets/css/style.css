@@ -16018,7 +16018,7 @@ body .btn-style-one:hover {
     position: relative;
     padding: 10px 20px 20px;
     background: #fff;
-    margin-left: -50px;
+    margin-left: 0 auto;
     border-radius: 6px;
     margin-bottom: 30px;
 }
@@ -43724,4 +43724,5 @@ figure {
 .project-inside-img{
     height:615px;
     object-fit:cover;
+
 }
