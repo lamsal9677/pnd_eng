@@ -15,9 +15,9 @@ export default function Footer14() {
                             <div className="row clearfix">
                                 <div className="col-lg-4 col-md-6 col-sm-12 info-column">
                                     <div className="info-box">
-                                        <h6 className="footer-title">Location</h6>
+                                        <h6 className="footer-title">Contact</h6>
                                         <p>
-                                            21 Orinda Way Ste C #246
+                                            21 C Orinda Way PMB 246, 
                                             <br/>
                                             Orinda, CA    
                                         </p>
