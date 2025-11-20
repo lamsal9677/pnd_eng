@@ -8101,6 +8101,7 @@ body .btn-style-one:hover {
     min-height: 60px;
     margin-bottom: 40px;
     padding-top: 5px;
+    line-height: 1.2;
 }
 
 .contact-section .author-box .image {
@@ -8123,6 +8124,8 @@ body .btn-style-one:hover {
     transition: .5s;
     margin-bottom: 10px;
     text-transform: uppercase;
+    text-decoration: underline;
+    /* font-weight: bold; */
 }
 
 .contact-section .author-box .phone-numer {
@@ -8132,6 +8135,7 @@ body .btn-style-one:hover {
     -webkit-transition: .5s;
     -o-transition: .5s;
     transition: .5s;
+    font-size: 150%;
 }
 
 .contact-section .list {
@@ -11204,6 +11208,7 @@ body .btn-style-one:hover {
     position: relative;
     font-size: 30px;
     font-weight: 600;
+    line-height: 2;
 }
 
 .faq-section .mail {
@@ -15967,6 +15972,7 @@ body .btn-style-one:hover {
 .contact-section.style-five .btn-style-one .btn-title {
     padding: 13px 30px;
     border-radius: 28px;
+    background-color: #000;
 }
 
 .contact-section.style-five .read-more-link {

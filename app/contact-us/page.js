@@ -64,8 +64,78 @@ export default function Home() {
                                 </div>
                                 <div className="col-lg-6 right-column">
                                     <div className="inner-container">
-                                        <div className="contact-form-box">
-                                                <CForm />
+                                        <div className="contact-form-area">
+                                            {/* <div className="top-content">
+                                                <h3>Send your message</h3>
+                                                <div className="text">
+                                                Please feel free to get in touch using the form below.
+                                                We'd love to hear for you.
+                                                </div>
+                                            </div> */}
+                                            <form
+                                                method="post"
+                                                action="https://api.web3forms.com/submit"
+                                                className="contact-form"
+                                            >
+                                                <input
+                                                type="hidden"
+                                                name="access_key"
+                                                value="83460ceb-d067-466d-a9ce-6bc86da4df0a"
+                                                />
+                                                <div className="row">
+                                                <div className="col-md-12 form-group">
+                                                    <input
+                                                    type="text"
+                                                    name="Name"
+                                                    placeholder="Name"
+                                                    required
+                                                    />
+                                                </div>
+                                                <div className="col-md-12 form-group">
+                                                    <input
+                                                    type="email"
+                                                    name="Email"
+                                                    placeholder="Email Address"
+                                                    required
+                                                    />
+                                                </div>
+                                                <div className="col-md-12 form-group">
+                                                    <input
+                                                    type="text"
+                                                    name="Phone Number"
+                                                    placeholder="Phone"
+                                                    required
+                                                    />
+                                                </div>
+                                                <div className="col-md-12 form-group">
+                                                    <input
+                                                    type="text"
+                                                    name="Address"
+                                                    placeholder="Address"
+                                                    required
+                                                    />
+                                                </div>
+                                                <div className="col-md-12 form-group">
+                                                    <textarea
+                                                    name="Message"
+                                                    placeholder="Message goes here"
+                                                    />
+                                                </div>
+                                                <div className="col-md-12 form-group">
+                                                    <input
+                                                    type="hidden"
+                                                    name="redirect"
+                                                    value="https://web3forms.com/success"
+                                                    />
+                                                    <button
+                                                    className="theme-btn btn-style-one"
+                                                    type="submit"
+                                                    >
+                                                    <span className="btn-title">Send Message</span>
+                                                    </button>
+                                                </div>
+                                                </div>
+                                            </form>
                                         </div>
                                     </div>
                                 </div>
